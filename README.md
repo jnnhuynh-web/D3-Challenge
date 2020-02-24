@@ -1,4 +1,4 @@
-# D3 Challenge
+# D3 Challenge - Plotting Correlations Between Health Risks, Age, and Income
 
 This data was taken from the [U.S. Census Bureau and the Behavioral Risk Factor Surveillance System](https://www.cdc.gov/brfss/index.html), and measures poverty, age, income, healthcare, obesity, and smoking rates for 2014 sorted by states.
 
