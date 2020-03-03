@@ -9,3 +9,4 @@ The tooltip on each datapoint was created using the [d3-tip.js plugin](https://g
 
 ## View the project in action!
 HTML webpage: https://jnnhuynh-web.github.io/D3-Challenge/
+![Project Screnshot](https://raw.githubusercontent.com/jnnhuynh-web/D3-Challenge/master/assets/Project%20Screenshot.png)
